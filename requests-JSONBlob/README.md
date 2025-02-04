@@ -1,4 +1,4 @@
-
+# Requests JSONBlob
 - `JSON Blob` (`JSB`) site [here]("https://jsonblob.com/api/jsonBlob/")
 - The identifier number is in `main.py`
     - As `JSB` does not rely on [`API keys`](https://en.wikipedia.org/wiki/API_key) the data you upload is publically accessible able to be altered by anyone with the URL / identifier number. As such this should only be used for testing purposes and should never be used for sensitive data.
